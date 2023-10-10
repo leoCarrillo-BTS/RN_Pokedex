@@ -12,9 +12,11 @@ https://pokeapi.co/api/v2/
 
 [VIDEO HERE](https://drive.google.com/file/d/19W2BOxtoyBWgA5hSISRWItnqrn-W_XOl/view?usp=drive_link)
 
-<img width="532" alt="Screenshot 2023-10-10 at 14 06 46" src="https://github.com/leoCarrillo-BTS/RN_Pokedex/assets/60411044/ab143e00-7f24-4a43-a82f-979dcd573a54">
-<img width="531" alt="Screenshot 2023-10-10 at 14 07 28" src="https://github.com/leoCarrillo-BTS/RN_Pokedex/assets/60411044/294831f5-106a-4fa1-9661-960f2732c3da">
-<img width="533" alt="Screenshot 2023-10-10 at 14 07 47" src="https://github.com/leoCarrillo-BTS/RN_Pokedex/assets/60411044/34b5efce-788a-403e-be36-aad612d35d55">
+<img width="532" alt="Screenshot 2023-10-10 at 14 06 46" src="https://github.com/leoCarrillo-BTS/RN_Pokedex/assets/60411044/dc12ab5d-20b1-4c4d-b3cb-4dd55287adf2">
+
+<img width="531" alt="Screenshot 2023-10-10 at 14 07 28" src="https://github.com/leoCarrillo-BTS/RN_Pokedex/assets/60411044/6d0302dd-238e-4445-a707-5e7f171e727d">
+
+<img width="533" alt="Screenshot 2023-10-10 at 14 07 47" src="https://github.com/leoCarrillo-BTS/RN_Pokedex/assets/60411044/d134c4aa-2755-4dbf-a2d7-7b58e7bb8ef7">
 
 ---
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
